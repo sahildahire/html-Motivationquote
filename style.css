@@ -1,0 +1,70 @@
+div
+
+{
+  height: 200px;
+  width: 200px;
+} 
+
+html
+
+{
+    background-color:#352F44;
+}
+
+h1
+{
+    text-align:center;
+    color:#F35F5F;
+}
+h2
+{
+    text-align:center;
+    color: #CC435F;
+}
+p
+{
+color: #F1EA65;
+text-align: center;
+}
+
+p
+{
+  margin: 0px;
+}
+
+#first
+
+{
+  
+  padding: 20px;
+}
+ 
+#second
+
+{
+ 
+  margin-top: 150px;
+    border-width: 20px 10px;
+  margin-left: 260px;
+  padding: 20px;
+}
+
+#third
+
+{
+  margin-top: 150px;
+    margin-left: 40px;
+}
+
+#forth
+
+{
+    margin-top: 150px;
+  padding: 20px;
+  margin-left: 260px;
+
+}
+}
+
+ 
+ 
